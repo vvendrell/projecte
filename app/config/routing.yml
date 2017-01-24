@@ -1,0 +1,8 @@
+abc_hello:
+    resource: "@ABCHelloBundle/Controller/"
+    type:     annotation
+    prefix:   /ABC
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
